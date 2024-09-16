@@ -28,3 +28,4 @@ avec l'utilisation des macros et des UserForm sous Excel.
 # Liens
 
 [Tutoriel](https://readydev.ovh/home/tutoriels/excel/references-vba "Références VBA")
+[LinkedIn](https://www.linkedin.com/in/tia-gerard-kesse/ "Contacts")
